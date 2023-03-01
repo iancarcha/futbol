@@ -1,5 +1,6 @@
-package com.example.futbol;
+package com.example.futbol.model;
 
+import com.example.futbol.model.Authority;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;

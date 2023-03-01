@@ -1,4 +1,4 @@
-package com.example.futbol;
+package com.example.futbol.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

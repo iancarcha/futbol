@@ -1,4 +1,4 @@
-package com.example.futbol;
+package error;
 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ControllerAdvice;

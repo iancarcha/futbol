@@ -1,5 +1,6 @@
-package com.example.futbol;
+package com.example.futbol.controller;
 
+import com.example.futbol.repository.UserRegisterRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.provisioning.UserDetailsManager;
 import org.springframework.web.bind.annotation.PostMapping;

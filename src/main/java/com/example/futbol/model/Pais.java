@@ -1,5 +1,6 @@
-package com.example.futbol;
+package com.example.futbol.model;
 
+import com.example.futbol.model.Equipos;
 import jakarta.persistence.*;
 
 @Entity

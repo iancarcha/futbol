@@ -1,4 +1,4 @@
-package com.example.futbol;
+package com.example.futbol.repository;
 
 public class UserRegisterRequest {
     public String username;
